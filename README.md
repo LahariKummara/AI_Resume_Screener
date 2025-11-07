@@ -72,7 +72,7 @@ similarity_score = cosine_similarity(vectors)[0][1]
 ```
 
 * 💡 Output: A similarity score between `0` and `1`
-* Example: `Resume Match Score: 0.31`
+* Example: `Resume Match Score: 0.30`
 
 ---
 

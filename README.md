@@ -146,12 +146,11 @@ app.py
 
 ## 👨‍💻 About the Author
 
-**Akshay Bhujbal**
+**LAHARI KUMMARA **
 
-* 📍 Pune, India
-* 📊 Data Analyst | Resume Screening AI Enthusiast
-* 🔗 [GitHub](https://github.com/AkshayBhujbal1995)
-* 💼 [LinkedIn](https://linkedin.com/in/akshay-1995-bhujbal)
+* 📍 Ananthapur, India
+* 🔗 [GitHub](https://github.com/LahariKummara)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kummaralahari/)
 
 ---
 
